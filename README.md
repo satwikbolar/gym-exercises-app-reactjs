@@ -1,4 +1,4 @@
-# FITNESS APPLICATION FOR GYM EXERCISES
+#  GYM EXERCISES APPLICATION FOR FITNESS
 
 This is a application in which you can get to know any exercise.
 The application can give you exercises based on many categories or based on your search.
